@@ -6,7 +6,7 @@ Link to dataset on Kaggle: https://www.kaggle.com/samdeeplearning/deepnlp
 - Sheet_1.csv - A csv document that holds data relating to a therapy bot and responses for the user. Responses that were seen as negative, threatening, indicating harm, etc. were classified as flagged.
   - 80 responses
   - What the Bot said to get the responses: 'Describe a time when you have acted as a resource for someone else'
-  - Flagged responses got referred to for help
+  - Flagged responses got referred for help
 - Sheet_2.csv - A csv document that holds data relating to resume of applicants for a job. The resumes that were invited to interview were classified as flagged.
   - 125 resumes
   - Resumes queried from Indeed with 'data scientist' keyword with location set to 'Vermont'
